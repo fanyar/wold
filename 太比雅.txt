@@ -1,0 +1,92 @@
+1.组件名以均以t-开头  
+2.组件入口文件index.js 
+3. 样式使用 less 非嵌套结构 
+4. 类名以t-开头
+
+
+gitlab地址：https://code.itepia.com/   
+chenfanjun   
+tbygitlab123
+
+
+禅道
+http://tepia-wh.vicp.io:10977/zentao/company-browse.html
+chenfanjun
+chenfanjun
+
+
+
+蓝湖
+train_fan@163.com
+
+
+OA
+chenfanjun
+无密码
+
+
+腾讯企业邮箱
+chenfj@bjtepia.com    
+Tby123
+
+
+https://yapi.itepia.com/login
+train_fan@163.com
+fanyapi
+fanyapi123
+
+tapd 
+train_fan@163.com
+
+tby_fan
+TBYfan123
+
+iconFont
+train_fan@163.com
+
+Microsoft
+tbychenfanjun
+tby123456
+
+码云
+542568072@qq.com
+fanyar
+fanyar123
+
+github
+fanyar
+github163+
+train_fan@163.com
+
+git add *  / git add .
+git commit -m '描述'
+git push
+
+git clone 地址
+
+
+
+$ git config --global user.name "xxx" (提交 修改 name)
+
+$ git config --global user.name "chenfanjun"
+
+
+
+切换分支
+git checkout dev
+
+
+
+
+https://ipcrs.pbccrc.org.cn/  征信
+
+https://run.iviewui.com/HDiaX8k0   图片上传
+
+https://www.itying.com/category-79-b0-min0-max0-attr0.0.4916.html	视频资料
+
+http://111.230.157.133:8081/    scott   1234qwer
+
+http://116.236.119.123:8081/#/manager  opera 888888  横沙
+
+
+
